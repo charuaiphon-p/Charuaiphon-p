@@ -1,15 +1,21 @@
 # Hi there, I'm <span type="placeholder" placeholder-type="person"></span> Charuaiphon Phimwan
 
-### 👋 Hi, I'm Charuaiphon Phimwan
-👨‍💻 About Me
-🎓 Computer Science Student
-💻 Interested in Software Development and Web Applications
-🚀 Currently learning and improving my Full-Stack Development skills, covering both Frontend and Backend
-💡 Enjoy exploring new technologies and applying what I learn to build projects
-🌱 Believe in continuous learning, improving my skills, and stepping outside my comfort zone
+
+# 👋 Hi, I'm Charuaiphon Phimwan
+
+### 👨‍💻 About Me
+
+🎓 Computer Science Student <br/>
+💻 Interested in Software Development and Web Applications <br/>
+🚀 Currently learning and improving my Full-Stack Development skills, covering both Frontend and Backend <br/>
+💡 Enjoy exploring new technologies and applying what I learn to build projects <br/>
+🌱 Believe in continuous learning, improving my skills, and stepping outside my comfort zone <br/>
 🎯 My goal is to become a Full-Stack Developer who can build creative, practical, and user-focused software solutions
 
-"Keep Learning, Keep Building, Keep Growing." 🚀
+<br/>
+
+**"Keep Learning, Keep Building, Keep Growing."** 🚀
+
 
 ---
 
